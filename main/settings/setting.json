@@ -1,0 +1,10 @@
+{
+  "notify": true,
+  "prefix": true,
+  "typing": true,
+  "anticall": true,
+  "anticulik": true,
+  "autoread": true,
+  "autoreadsw": false,
+  "limitCount": 50
+}
